@@ -1,4 +1,4 @@
-# PT-1
+# Preliminary Task-1
 Follow these instructions to submit the task.
 1. On the top right corner of the repository's page, you'll find a "Fork" button. Click on it.
 2. A popup will appear, asking where you want to fork the repository. By default, your personal GitHub account should be selected. Click on your username to fork the repository to your account.
